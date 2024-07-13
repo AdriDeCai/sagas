@@ -7,6 +7,17 @@
 "stations":[
 
 	      {
+	      "name": "Los 4 truhanes",
+        "image": "https://pics.filmaffinity.com/i_quattro_dell_ave_maria-693507671-large.jpg",
+        "url": "https://filemoon.sx/d/i5tbp4z9ox1o/1968_-_los_cuatro_truhanes._Cinepalomitas.mkv",
+       	"info": "[Español 1968]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
 	      "name": "Mas fuerte, muchachos",
         "image": "https://pics.filmaffinity.com/piu_forte_ragazzi-507668322-large.jpg",
         "url": "https://filemoon.sx/d/2szora8hf5k6/_M_s_Fuerte__Muchachos!__1972_Pelicula___HDRip_.mp4",
@@ -32,6 +43,17 @@
 	      "name": "Puños fuera",
         "image": "https://pics.filmaffinity.com/piedone_l_africano-915881045-large.jpg",
         "url": "https://filemoon.sx/d/4hfkeaovf4wt/Pu_os_fuera__1978_Pelicula_.mp4",
+       	"info": "[Español 1978]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "Par Impar",
+        "image": "https://pics.filmaffinity.com/pari_e_dispari-359112919-large.jpg",
+        "url": "https://filemoon.sx/d/zt3303zitugu/Par-Impar__1978_Pelicula_.mkv",
        	"info": "[Español 1978]",
        	"embed": "",
        	"isHost": "true",
