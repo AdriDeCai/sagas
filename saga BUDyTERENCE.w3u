@@ -7,10 +7,32 @@
 "stations":[
 
 	      {
+	      "name": "Tu perdonas, yo no",
+        "image": "https://pics.filmaffinity.com/dio_perdona_io_no-294147669-large.jpg",
+        "url": "https://filemoon.sx/d/n2j0u7hhj711/Tu_perdonas_yo_no__1967_Pelicula_Cinepalomitas.mkv",
+       	"info": "[Español 1967]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
 	      "name": "Los 4 truhanes",
         "image": "https://pics.filmaffinity.com/i_quattro_dell_ave_maria-693507671-large.jpg",
         "url": "https://filemoon.sx/d/i5tbp4z9ox1o/1968_-_los_cuatro_truhanes._Cinepalomitas.mkv",
        	"info": "[Español 1968]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "Colina de las botas",
+        "image": "https://filemoon.sx/d/cc1gkbobi811/Colina_de_las_botas__1060_Pelicula_Cinepalomitas.mkv",
+        "url": "https://filemoon.sx/d/i5tbp4z9ox1o/1968_-_los_cuatro_truhanes._Cinepalomitas.mkv",
+       	"info": "[Español 1969]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -43,6 +65,17 @@
 	      "name": "Y si no, nos enfadamos",
         "image": "https://pics.filmaffinity.com/altrimenti_ci_arrabbiamo-540801472-large.jpg",
         "url": "https://filemoon.sx/d/4rr3m3aajaoc/Y_Si_No_Nos_Enfadamos__1974_Pelicula__Castellano_BDrip_X264.avi",
+       	"info": "[Español 1974]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	      "name": "Dos Misioneros",
+        "image": "https://pics.filmaffinity.com/porgi_l_altra_guancia-368461852-large.jpg",
+        "url": "https://filemoon.sx/d/58qxs4u5jbl2/Dos_Misioneros__1974_Pelicula___DVDRip_x264_Castellano_AC3_.avi",
        	"info": "[Español 1974]",
        	"embed": "",
        	"isHost": "true",
@@ -143,6 +176,28 @@
         "image": "https://pics.filmaffinity.com/non_c_e_due_senza_quattro-503287030-large.jpg",
         "url": "https://filemoon.sx/d/bnkj6d2vo00v/Dos_Superdos__1984_Pelicula_.mp4",
        	"info": "[Español 1984]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "Dos Super Policias en Miami",
+        "image": "https://pics.filmaffinity.com/miami_supercops_i_poliziotti_dell_ottava_strada-370165270-large.jpg",
+        "url": "https://filemoon.sx/d/m73ja0m85enc/Dos_Superpolicias_en_Miami__1985_Pelicula___DVDRip_x264_Castellano_AC3_.avi",
+       	"info": "[Español 1985]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "Y en Nochebuena se armo el Belen",
+        "image": "https://pics.filmaffinity.com/botte_di_natale-533610854-large.jpg",
+        "url": "https://filemoon.sx/d/bi6g75uoh4f8/Y_en_Nochebuena_se_arm__el_bel_n__1994_Pelicula___DvDRip_.avi",
+       	"info": "[Español 1994]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
