@@ -28,6 +28,17 @@
         "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+	      {
+	      "name": "El Super Poli",
+        "image": "https://pics.filmaffinity.com/piedone_lo_sbirro-311542191-large.jpg",
+        "url": "https://filemoon.sx/d/stlicfzscxbk/El_super_poli__1973_Pelicula__1080p_AVC_AC3.mkv",
+       	"info": "[Español 1973]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
         {
 	      "name": "Y si no, nos enfadamos",
         "image": "https://pics.filmaffinity.com/altrimenti_ci_arrabbiamo-540801472-large.jpg",
@@ -73,6 +84,17 @@
        	"import": false
        	},
 	      {
+	      "name": "El Superpoderoso",
+        "image": "https://pics.filmaffinity.com/poliziotto_superpiu-851934527-large.jpg",
+        "url": "https://filemoon.sx/d/s848fzw900qc/El_Superpoderoso__1980_Pelicula___DVDRip_x264_Castellano_AC3_.avi",
+       	"info": "[Español 1980]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
 	      "name": "Dos granujas en el Oeste",
         "image": "https://pics.filmaffinity.com/occhio_alla_penna_buddy_goes_west-148176752-large.jpg",
         "url": "https://filemoon.sx/d/sdenptc5t65m/Dos_Granujas_en_el_Oeste__1981_Pelicula_.mp4",
@@ -88,6 +110,17 @@
         "image": "https://pics.filmaffinity.com/chi_trova_un_amico_trova_un_tesoro-436180819-large.jpg",
         "url": "https://filemoon.sx/d/yhrrwlbj0e8o/Quien_Tiene_Un_Amigo_Tiene_Un_Tesoro__1981_Pelicula_.mp4",
        	"info": "[Español 1981]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "Banana Joe",
+        "image": "https://pics.filmaffinity.com/banana_joe-997286391-large.jpg",
+        "url": "https://filemoon.sx/d/wqtsl9mwul19/Banana_Joe_1982_Castellano_BDrip_X264.mkv",
+       	"info": "[Español 1982]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
