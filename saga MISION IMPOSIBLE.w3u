@@ -1,0 +1,88 @@
+{"name": "MISION IMPOSIBLE",
+"image": "https://pics.filmaffinity.com/mission_impossible-107188957-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	{
+	"name": "Mision Imposible I",
+        "image": "https://pics.filmaffinity.com/mission_impossible-107188957-large.jpg",
+        "url": "",
+       	"info": "[Español 19996]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Mision Imposible II",
+        "image": "https://pics.filmaffinity.com/mission_impossible_2_m_i_2-704255287-large.jpg",
+        "url": "https://upstream.to/0uwtaz7o9dhf",
+       	"info": "[Español 2000]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Mision Imposible III",
+        "image": "https://pics.filmaffinity.com/mission_impossible_iii_m_i_iii-654906638-large.jpg",
+        "url": "https://upstream.to/mjvt94qbrb2b",
+       	"info": "[Español 2006]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Mision Imposible Protocolo Fantasma",
+        "image": "https://pics.filmaffinity.com/mission_impossible_ghost_protocol-284514904-mmed.jpg",
+        "url": "",
+       	"info": "[Español 2011]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Mision imposible Nacion Secreta",
+        "image": "https://pics.filmaffinity.com/mission_impossible_rogue_nation-224283177-large.jpg",
+        "url": "",
+       	"info": "[Español 2015]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Mision Imposible VI Fallout",
+        "image": "https://pics.filmaffinity.com/mission_impossible_fallout-180739766-large.jpg",
+        "url": "",
+       	"info": "[Español 2018]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Mision Imposible Sentencia Mortal Parte I",
+        "image": "https://pics.filmaffinity.com/mission_impossible_dead_reckoning_part_one-902615661-large.jpg",
+        "url": "",
+       	"info": "[Español 2023]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
