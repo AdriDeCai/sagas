@@ -1,0 +1,65 @@
+{"name": "CLINT EASTWOOD",
+"image": "https://pics.filmaffinity.com/harry_callahan_clint_eastwood_something_special_in_films_s-150921610-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/sagas/main/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	      {
+        "name": "Por un puñado de dólares",
+        "image": "https://pics.filmaffinity.com/per_un_pugno_di_dollari-229570319-large.jpg",
+        "url": "https://filemoon.sx/d/bw0cnrisb1ey/Por_un_pu_ado_de_dolares__1964_Pelicula_.mp4",
+        "info": "[Español][1964]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "La muerte tenía un precio",
+        "image": "https://pics.filmaffinity.com/per_qualche_dollaro_in_piu-587045376-large.jpg",
+        "url": "https://filemoon.sx/d/a6ecgnx7gtya/La_muerte_tenia_un_precio__1965_Pelicula_.mp4",
+        "info": "[Español][1965]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+  	    {
+        "name": "El bueno, el feo y el malo",
+        "image": "https://pics.filmaffinity.com/il_buono_il_brutto_il_cattivo_aka_the_good_the_bad_and_the_ugly-589330734-large.jpg",
+        "url": "https://filemoon.sx/d/d55ufdwl8iae/El_bueno__el_feo_y_el_malo__1966_Pelicula_.mp4",
+        "info": "[Español][1966]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },     
+	      {
+        "name": "Harry el Sucio",
+        "image": "https://pics.filmaffinity.com/dirty_harry-681952792-large.jpg",
+        "url": "https://filemoon.sx/d/yl9qkx8hcdxm/Harry_el_sucio__1971_Pelicula_.mp4",
+        "info": "[Español][1971]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "Un botin de 500.000 dolares",
+        "image": "https://pics.filmaffinity.com/thunderbolt_and_lightfoot-954483907-large.jpg",
+        "url": "https://filemoon.sx/d/wzs3w3xhgcgx/Un_botin_de_500000_dolares__1974_Pelicula_.mp4",
+        "info": "[Español][1974]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "La fuga de Alcatraz",
+        "image": "https://pics.filmaffinity.com/escape_from_alcatraz-562601250-large.jpg",
+        "url": "https://filemoon.sx/d/w4irt20oygtv/La_Fuga_de_Alcatraz__1979_Pelicula_.mp4",
+        "info": "[Español][1979]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        }
+]
+}
+
