@@ -32,12 +32,30 @@
         "isHost": "true",
         "online": "true",
         "userAgent": ""
-        },     
+        },
+  	    {
+        "name": "Los violentos de Kelly",
+        "image": "https://pics.filmaffinity.com/kelly_s_heroes-536885009-large.jpg",
+        "url": "",
+        "info": "[Español][1970]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
 	      {
         "name": "Harry el Sucio",
         "image": "https://pics.filmaffinity.com/dirty_harry-681952792-large.jpg",
         "url": "https://filemoon.sx/d/yl9qkx8hcdxm/Harry_el_sucio__1971_Pelicula_.mp4",
         "info": "[Español][1971]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "Infierno de cobardes",
+        "image": "https://pics.filmaffinity.com/high_plains_drifter-968286666-large.jpg",
+        "url": "",
+        "info": "[Español][1973]",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
@@ -52,6 +70,15 @@
         "userAgent": ""
         },
 	      {
+        "name": "El fuera de la Ley",
+        "image": "https://pics.filmaffinity.com/the_outlaw_josey_wales-646553791-large.jpg",
+        "url": "",
+        "info": "[Español][1976]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
         "name": "La fuga de Alcatraz",
         "image": "https://pics.filmaffinity.com/escape_from_alcatraz-562601250-large.jpg",
         "url": "https://filemoon.sx/d/w4irt20oygtv/La_Fuga_de_Alcatraz__1979_Pelicula_.mp4",
@@ -59,7 +86,101 @@
         "isHost": "true",
         "online": "true",
         "userAgent": ""
+        },
+	      {
+        "name": "El jinete palido",
+        "image": "https://pics.filmaffinity.com/pale_rider-866654713-large.jpg",
+        "url": "",
+        "info": "[Español][1985]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "Bird",
+        "image": "https://pics.filmaffinity.com/celebrating_bird_the_triumph_of_charlie_parker_american_masters-992859859-large.jpg",
+        "url": "https://filemoon.sx/d/g12e16ib9kvf/Bird__1988_Pelicula_.mp4",
+        "info": "[Español][1988]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "Sin perdon",
+        "image": "https://pics.filmaffinity.com/unforgiven-854755790-large.jpg",
+        "url": "https://filemoon.sx/d/tm57xk0tes6p/Sin_Perdon__1992_Pelicula_.mp4",
+        "info": "[Español][1992]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "Un mundo perfecto",
+        "image": "https://pics.filmaffinity.com/a_perfect_world-335283977-large.jpg",
+        "url": "https://filemoon.sx/d/9goauq5npmxh/Un_mundo_perfecto__1993_Pelicula_.mp4",
+        "info": "[Español][1993]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "Los puentes de Madison",
+        "image": "https://pics.filmaffinity.com/the_bridges_of_madison_county-998728421-large.jpg",
+        "url": "https://filemoon.sx/d/ba68oielovfb/Los_puentes_de_Madison__1995_Pelicula_.mp4",
+        "info": "[Español][1995]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "Mystic River",
+        "image": "https://pics.filmaffinity.com/mystic_river-976638525-large.jpg",
+        "url": "https://filemoon.sx/d/mbc0pv4gab3v/Mystic_River__2003_Pelicula_.mp4",
+        "info": "[Español][2003]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "Million Dolar Baby",
+        "image": "https://pics.filmaffinity.com/million_dollar_baby-342154413-large.jpg",
+        "url": "https://filemoon.sx/d/nnk5tmx9m78f/Million_Dolar_Baby__2004_Pelicula_.mp4",
+        "info": "[Español][2004]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "Cartas desde Iwo Jima",
+        "image": "https://pics.filmaffinity.com/letters_from_iwo_jima-293058340-large.jpg",
+        "url": "https://filemoon.sx/d/f3rsk214y7h0/Cartas_desde_Iwo_Jima__2006_Pelicula_.mp4",
+        "info": "[Español][2006]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "El intercambio",
+        "image": "https://pics.filmaffinity.com/changeling-552115401-large.jpg",
+        "url": "",
+        "info": "[Español][2008]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "Gran Torino",
+        "image": "https://pics.filmaffinity.com/gran_torino-278262332-large.jpg",
+        "url": "https://filemoon.sx/d/227zdpfe2a6t/Gran_Torino__2008_Pelicula_.mp4",
+        "info": "[Español][2008]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
         }
+
 ]
 }
+
+
+
 
