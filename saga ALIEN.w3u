@@ -71,6 +71,17 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "Alien, Romulus",
+        "image": "https://pics.filmaffinity.com/alien_romulus-177464034-large.jpg",
+        "url": "https://filemoon.sx/d/522uow2kxwhf",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 
 ]
