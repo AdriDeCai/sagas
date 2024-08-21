@@ -1,0 +1,40 @@
+{
+"name": "Creed",
+"image": "https://pics.filmaffinity.com/creed-232228847-large.jpg",
+"url": "https://af1cionados.vercel.app/saga%20ROCKY.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations": 
+                [
+
+                {
+                "name": "Creed I La leyenda Rocky (Pelicula)",
+                "info":"(2015)",
+                "image": "https://pics.filmaffinity.com/creed-232228847-large.jpg",
+                "url": "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },                
+                {
+                "name": "Creed II La leyenda Rocky (Pelicula)",
+                "info":"(2018)",
+                "image": "https://pics.filmaffinity.com/creed_ii-331206102-large.jpg",
+                "url": "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Creed III La leyenda Rocky (Pelicula)",
+                "info":"(2023)",
+                "image": "https://pics.filmaffinity.com/creed_iii-358416025-large.jpg",
+                "url": "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                }
+
+]
+}
