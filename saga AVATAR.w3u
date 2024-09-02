@@ -1,0 +1,33 @@
+{"name": "Avatar",
+"image": "https://pics.filmaffinity.com/avatar-208925608-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/sagas/main/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	{
+	"name": "Avatar",
+        "image": "https://pics.filmaffinity.com/avatar-208925608-large.jpg",
+        "url": "",
+       	"info": "[Español 2009]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Avatar, el sentido del agua",
+        "image": "https://pics.filmaffinity.com/avatar_the_way_of_water-722646748-large.jpg",
+        "url": "",
+       	"info": "[Español 2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
