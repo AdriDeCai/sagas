@@ -43,6 +43,24 @@
         "userAgent": ""
         },
   	    {
+        "name": "Jungla Humana, La",
+        "image": "https://pics.filmaffinity.com/coogan_s_bluff-511085263-large.jpg",
+        "url": "https://filemoon.sx/d/s1ozxmvrcvzn/_1968__La_jungla_humana__1968_.mp4",
+        "info": "[Español][1968]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+  	    {
+        "name": "Leyenda de la ciudad sin nombre, La",
+        "image": "https://pics.filmaffinity.com/paint_your_wagon-767331126-large.jpg",
+        "url": "https://filemoon.sx/d/wvx7zjb69uc7/_1969__La_leyenda_de_la_ciudad_sin_nombre__1969_.mp4",
+        "info": "[Español][1969]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+  	    {
         "name": "Los violentos de Kelly",
         "image": "https://pics.filmaffinity.com/kelly_s_heroes-536885009-large.jpg",
         "url": "https://filemoon.sx/d/x5juqx5orenm/Los_violentos_de_Kelly__1970_Pelicula_.mp4",
@@ -142,6 +160,24 @@
         "userAgent": ""
         },
 	      {
+        "name": "Ejecucion Inminente",
+        "image": "https://pics.filmaffinity.com/true_crime-490922440-large.jpg",
+        "url": "https://filemoon.sx/d/xdt64kwovhe4/_1999__Ejecucion_inminente__1999_.mp4",
+        "info": "[Español][1999]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "Space Cowboys",
+        "image": "https://pics.filmaffinity.com/space_cowboys-679905557-large.jpg",
+        "url": "https://filemoon.sx/d/sgi9ae5u3pe5/_2000__Space_Cowboys__2000_.mp4",
+        "info": "[Español][2000]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
         "name": "Mystic River",
         "image": "https://pics.filmaffinity.com/mystic_river-976638525-large.jpg",
         "url": "https://filemoon.sx/d/mbc0pv4gab3v/Mystic_River__2003_Pelicula_.mp4",
@@ -182,6 +218,15 @@
         "image": "https://pics.filmaffinity.com/gran_torino-278262332-large.jpg",
         "url": "https://filemoon.sx/d/227zdpfe2a6t/Gran_Torino__2008_Pelicula_.mp4",
         "info": "[Español][2008]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "Mula",
+        "image": "https://pics.filmaffinity.com/the_mule-724894082-large.jpg",
+        "url": "https://filemoon.sx/d/3z0jicvrt3hd/_2018__Mula__2018_.mp4",
+        "info": "[Español][2018]",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
