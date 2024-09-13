@@ -6,20 +6,20 @@
 "telegram": "@YIsus_mEx",
 "stations":[
 
-	      {
-        "name": "Por un puñado de dólares",
-        "image": "https://pics.filmaffinity.com/per_un_pugno_di_dollari-229570319-large.jpg",
-        "url": "",
-        "info": "[Español][1964]",
+	{
+        "name": "Alamo, El",
+        "image": "https://pics.filmaffinity.com/the_alamo-716434022-large.jpg",
+        "url": "https://filemoon.sx/d/mjqdut67foe8/Alamo__El__1960_Pelicula_.mp4",
+        "info": "[Español][1960]",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
         },
 	{
-        "name": "",
-        "image": "",
-        "url": "",
-        "info": "[Español][1979]",
+        "name": "Dia mas largo, El",
+        "image": "https://pics.filmaffinity.com/the_longest_day-232797760-large.jpg",
+        "url": "https://filemoon.sx/d/tsjc3tqf42la/Dia_mas_largo_El__1962_Pelicula_.mp4",
+        "info": "[Español][1962]",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
