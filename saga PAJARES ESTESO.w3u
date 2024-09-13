@@ -7,15 +7,59 @@
 "stations":[
 
 	      {
-        "name": "Por un puñado de dólares",
-        "image": "https://pics.filmaffinity.com/per_un_pugno_di_dollari-229570319-large.jpg",
+        "name": "Bingueros,Los",
+        "image": "https://pics.filmaffinity.com/los_bingueros-174018709-large.jpg",
         "url": "",
-        "info": "[Español][1964]",
+        "info": "[Español][1979]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "",
+        "image": "",
+        "url": "",
+        "info": "[Español][1979]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "",
+        "image": "",
+        "url": "",
+        "info": "[Español][1979]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "",
+        "image": "",
+        "url": "",
+        "info": "[Español][1979]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "",
+        "image": "",
+        "url": "",
+        "info": "[Español][1979]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "",
+        "image": "",
+        "url": "",
+        "info": "[Español][1979]",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
         }
-
 
 
 ]
