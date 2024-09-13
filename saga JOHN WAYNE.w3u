@@ -6,6 +6,16 @@
 "telegram": "@YIsus_mEx",
 "stations":[
 
+
+	{
+        "name": "Mision de audaces",
+        "image": "https://pics.filmaffinity.com/the_horse_soldiers-254431519-large.jpg",
+        "url": "https://filemoon.sx/d/zvfqqgye0m7x/Mision_de_audaces_1959_Pelicula.mp4",
+        "info": "[Español][1959]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
 	{
         "name": "Alamo, El",
         "image": "https://pics.filmaffinity.com/the_alamo-716434022-large.jpg",
@@ -20,6 +30,87 @@
         "image": "https://pics.filmaffinity.com/the_longest_day-232797760-large.jpg",
         "url": "https://filemoon.sx/d/tsjc3tqf42la/Dia_mas_largo_El__1962_Pelicula_.mp4",
         "info": "[Español][1962]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "Hatari,
+        "image": "https://pics.filmaffinity.com/hatari-588539247-large.jpg",
+        "url": "https://filemoon.sx/d/qr7yzva8skpi/Hatari_1962_Pelicula.mp4",
+        "info": "[Español][1962]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "Primera Victoria",
+        "image": "https://pics.filmaffinity.com/in_harm_s_way-598301799-large.jpg",
+        "url": "https://filemoon.sx/d/4e1jm9t9np1v/Primera_Victoria__1965_Pelicula_.mp4",
+        "info": "[Español][1965]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "Sombra de un Gigante",
+        "image": "https://pics.filmaffinity.com/cast_a_giant_shadow-434055031-large.jpg",
+        "url": "https://filemoon.sx/d/z1pblhc23bzg/Sombra_de_un_gigante__La__1966_Pelicula_.mp4",
+        "info": "[Español][1966]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "Ataque al carro blindado",
+        "image": "https://pics.filmaffinity.com/the_war_wagon-399085817-large.jpg",
+        "url": "https://filemoon.sx/d/pwo8973526qx/Ataque_al_carro_blindado__1967_Pelicula_.mp4",
+        "info": "[Español][1967]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "Boinas Verdes",
+        "image": "https://pics.filmaffinity.com/the_green_berets-184650045-large.jpg",
+        "url": "https://filemoon.sx/d/z06ygt1nkrn7/Watch_Boinas_verdes__1968_Pelicula_.mp4",
+        "info": "[Español][1968]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "Indestructibles, Los",
+        "image": "https://pics.filmaffinity.com/the_undefeated-844343094-large.jpg",
+        "url": "https://filemoon.sx/d/3x77gdfvv1on/Indestructibles__Los__1969_Pelicula_.mp4",
+        "info": "[Español][1969]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "Valor de Ley",
+        "image": "https://pics.filmaffinity.com/true_grit-457751056-large.jpg",
+        "url": "https://filemoon.sx/d/0ch9i5jiacns/Valor_de_Ley__1969_Pelicula_.mp4",
+        "info": "[Español][1969]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "Chisum, The Leyend",
+        "image": "https://pics.filmaffinity.com/chisum-106709278-large.jpg",
+        "url": "https://filemoon.sx/d/ofkvm5hbw04c/Chisum__1970_Pelicula_.mp4",
+        "info": "[Español][1970]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "",
+        "image": "",
+        "url": "",
+        "info": "[Español][1979]",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
