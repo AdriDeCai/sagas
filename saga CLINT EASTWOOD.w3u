@@ -69,6 +69,15 @@
         "online": "true",
         "userAgent": ""
         },
+  	    {
+        "name": "2 Mulas y 1 mujer",
+        "image": "https://pics.filmaffinity.com/two_mules_for_sister_sara-666696106-large.jpg",
+        "url": "https://filemoon.sx/d/v4805s6shm6n/_1970__Dos_Mulas_Y_Una_Mujer__1970_.mp4",
+        "info": "[Español][1970]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
 	      {
         "name": "Harry el Sucio",
         "image": "https://pics.filmaffinity.com/dirty_harry-681952792-large.jpg",
@@ -90,7 +99,7 @@
 	      {
         "name": "Un botin de 500.000 dolares",
         "image": "https://pics.filmaffinity.com/thunderbolt_and_lightfoot-954483907-large.jpg",
-        "url": "https://filemoon.sx/d/rscylmyxwn7w/_1974__Un_Botin_De_500.000_Dolares__1974_.mp4",
+        "url": "https://filemoon.sx/d/vuixk9mcy83w/_1974__Un_Botin_De_500.000_Dolares__1974_.mp4",
         "info": "[Ingles][1974]",
         "isHost": "true",
         "online": "true",
@@ -155,6 +164,15 @@
         "image": "https://pics.filmaffinity.com/the_bridges_of_madison_county-998728421-large.jpg",
         "url": "https://filemoon.sx/d/ba68oielovfb/Los_puentes_de_Madison__1995_Pelicula_.mp4",
         "info": "[Español][1995]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	      {
+        "name": "Poder Absoluto",
+        "image": "https://pics.filmaffinity.com/absolute_power-449501693-large.jpg",
+        "url": "https://filemoon.sx/d/bjy0gxw44681/_1997__Poder_absoluto__1997_.mp4",
+        "info": "[Español][1997]",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
