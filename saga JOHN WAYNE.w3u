@@ -6,6 +6,16 @@
 "telegram": "@YIsus_mEx",
 "stations":[
 
+
+	{
+        "name": "La Diligencia",
+        "image": "https://pics.filmaffinity.com/stagecoach-479896236-large.jpg",
+        "url": "https://filemoon.sx/d/j3uo2azn5bkl/La_Diligencia.avi",
+        "info": "[Español][1939]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
 	{
         "name": "Tres Padrinos",
         "image": "https://pics.filmaffinity.com/the_three_godfathers_3_godfathers-873558797-large.jpg",
@@ -16,10 +26,28 @@
         "userAgent": ""
         },
 	{
+        "name": "Legion Invencible, La",
+        "image": "https://pics.filmaffinity.com/she_wore_a_yellow_ribbon-627871520-large.jpg",
+        "url": "https://filemoon.sx/d/e8un716adkm4/La_Legion_Invencible._Cinepalomitas.avi",
+        "info": "[Español][1949]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
         "name": "Rio Grande",
         "image": "https://pics.filmaffinity.com/rio_grande-718878677-large.jpg",
         "url": "https://filemoon.sx/d/pxo4rulflk0u/Rio.grande_Cinepalomitas.avi",
         "info": "[Español][1950]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "Centauros del Desierto",
+        "image": "https://pics.filmaffinity.com/the_searchers-701683492-large.jpg",
+        "url": "https://filemoon.sx/d/x5obgtmkln5e/Centauros_Del_Desierto.avi",
+        "info": "[Español][1956]",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
@@ -79,9 +107,27 @@
         "userAgent": ""
         },
 	{
+        "name": "Los Cuatro hijos de Katie Elder",
+        "image": "https://pics.filmaffinity.com/the_sons_of_katie_elder-526279598-large.jpg",
+        "url": "https://filemoon.sx/d/kbdcejsl7t7t/Los_cuatro_hijos_de_Katie_Elder._Cinepalomitas.avi",
+        "info": "[Español][1965]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
         "name": "Sombra de un Gigante",
         "image": "https://pics.filmaffinity.com/cast_a_giant_shadow-434055031-large.jpg",
         "url": "https://filemoon.sx/d/z1pblhc23bzg/Sombra_de_un_gigante__La__1966_Pelicula_.mp4",
+        "info": "[Español][1966]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "El Dorado",
+        "image": "https://pics.filmaffinity.com/el_dorado-352351906-large.jpg",
+        "url": "https://filemoon.sx/d/5wrhp6aci97a/El_Dorado.avi",
         "info": "[Español][1966]",
         "isHost": "true",
         "online": "true",
