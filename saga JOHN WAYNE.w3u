@@ -6,11 +6,37 @@
 "telegram": "@YIsus_mEx",
 "stations":[
 
-
+	{
+        "name": "Tres Padrinos",
+        "image": "https://pics.filmaffinity.com/the_three_godfathers_3_godfathers-873558797-large.jpg",
+        "url": "https://filemoon.sx/d/tc4tmcv4wz62/Tres.padrinos.avi",
+        "info": "[Español][1948]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "Rio Grande",
+        "image": "https://pics.filmaffinity.com/rio_grande-718878677-large.jpg",
+        "url": "https://filemoon.sx/d/pxo4rulflk0u/Rio.grande_Cinepalomitas.avi",
+        "info": "[Español][1950]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
 	{
         "name": "Mision de audaces",
         "image": "https://pics.filmaffinity.com/the_horse_soldiers-254431519-large.jpg",
         "url": "https://filemoon.sx/d/zvfqqgye0m7x/Mision_de_audaces_1959_Pelicula.mp4",
+        "info": "[Español][1959]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "Rio Bravo",
+        "image": "https://pics.filmaffinity.com/rio_bravo-584127850-large.jpg",
+        "url": "https://filemoon.sx/d/bxni1hn9h8tq/Rio_Bravo._Cinepalomitas.avi",
         "info": "[Español][1959]",
         "isHost": "true",
         "online": "true",
@@ -93,6 +119,15 @@
         "image": "https://pics.filmaffinity.com/true_grit-457751056-large.jpg",
         "url": "https://filemoon.sx/d/0ch9i5jiacns/Valor_de_Ley__1969_Pelicula_.mp4",
         "info": "[Español][1969]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+	{
+        "name": "Rio Lobo",
+        "image": "https://pics.filmaffinity.com/rio_lobo-815366923-large.jpg",
+        "url": "https://filemoon.sx/d/tfs50uhpqpuj/Rio_Lobo_Cinepalomitas.avi",
+        "info": "[Español][1970]",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
