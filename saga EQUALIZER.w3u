@@ -11,6 +11,7 @@
         "image": "https://image.tmdb.org/t/p/w300/mSHUWWeu7aiA7nzbMsjRB9HYseN.jpg",
         "url": "https://filemoon.sx/e/9ikinlm0ez1u",
         "info": "[Español][2014]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
@@ -20,6 +21,7 @@
         "image": "https://image.tmdb.org/t/p/original/zMdzUIiWXuXAYjlxdSkwG6KlAmU.jpg",
         "url": "https://filemoon.sx/e/0vzc1njfv49k",
         "info": "[Español][2018]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
@@ -29,6 +31,7 @@
         "image": "https://image.tmdb.org/t/p/w300/eJKmexmCLwuxOxlAURSMnBVkfmY.jpg",
         "url": "https://vudeo.ws/embed-1a8brgjlm40x.html",
         "info": "[Español][2023]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
