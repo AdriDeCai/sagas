@@ -12,63 +12,63 @@
         "image": "https://pics.filmaffinity.com/stagecoach-479896236-large.jpg",
         "url": "https://filemoon.sx/d/j3uo2azn5bkl/La_Diligencia.avi",
         "info": "[Español][1939]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
-        "online": "true",
-        "userAgent": ""
+        "online": "true"
         },
 	{
         "name": "Tres Padrinos",
         "image": "https://pics.filmaffinity.com/the_three_godfathers_3_godfathers-873558797-large.jpg",
         "url": "https://filemoon.sx/d/tc4tmcv4wz62/Tres.padrinos.avi",
         "info": "[Español][1948]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
-        "online": "true",
-        "userAgent": ""
+        "online": "true"
         },
 	{
         "name": "Legion Invencible, La",
         "image": "https://pics.filmaffinity.com/she_wore_a_yellow_ribbon-627871520-large.jpg",
         "url": "https://filemoon.sx/d/e8un716adkm4/La_Legion_Invencible._Cinepalomitas.avi",
         "info": "[Español][1949]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
-        "online": "true",
-        "userAgent": ""
+        "online": "true"
         },
 	{
         "name": "Rio Grande",
         "image": "https://pics.filmaffinity.com/rio_grande-718878677-large.jpg",
         "url": "https://filemoon.sx/d/pxo4rulflk0u/Rio.grande_Cinepalomitas.avi",
         "info": "[Español][1950]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
-        "online": "true",
-        "userAgent": ""
+        "online": "true"
         },
 	{
         "name": "Centauros del Desierto",
         "image": "https://pics.filmaffinity.com/the_searchers-701683492-large.jpg",
         "url": "https://filemoon.sx/d/x5obgtmkln5e/Centauros_Del_Desierto.avi",
         "info": "[Español][1956]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
-        "online": "true",
-        "userAgent": ""
+        "online": "true"
         },
 	{
         "name": "Mision de audaces",
         "image": "https://pics.filmaffinity.com/the_horse_soldiers-254431519-large.jpg",
         "url": "https://filemoon.sx/d/zvfqqgye0m7x/Mision_de_audaces_1959_Pelicula.mp4",
         "info": "[Español][1959]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
-        "online": "true",
-        "userAgent": ""
+        "online": "true"
         },
 	{
         "name": "Rio Bravo",
         "image": "https://pics.filmaffinity.com/rio_bravo-584127850-large.jpg",
         "url": "https://filemoon.sx/d/bxni1hn9h8tq/Rio_Bravo._Cinepalomitas.avi",
         "info": "[Español][1959]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
-        "online": "true",
-        "userAgent": ""
+        "online": "true"
         },
 	{
         "name": "Alamo, El",
@@ -77,7 +77,7 @@
         "info": "[Español][1960]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9"
         },
 	{
         "name": "Alaska, Tierra de Oro",
@@ -86,7 +86,7 @@
         "info": "[Español][1960]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9"
         },
 	{
         "name": "Dia mas largo, El",
@@ -95,7 +95,7 @@
         "info": "[Español][1962]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9"
         },
 	{
         "name": "Hatari",
@@ -104,7 +104,7 @@
         "info": "[Español][1962]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9"
         },
 	{
         "name": "Primera Victoria",
@@ -113,7 +113,7 @@
         "info": "[Español][1965]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9"
         },
 	{
         "name": "Los Cuatro hijos de Katie Elder",
@@ -122,7 +122,7 @@
         "info": "[Español][1965]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9"
         },
 	{
         "name": "Sombra de un Gigante",
@@ -131,7 +131,7 @@
         "info": "[Español][1966]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9"
         },
 	{
         "name": "El Dorado",
@@ -140,7 +140,7 @@
         "info": "[Español][1966]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9"
         },
 	{
         "name": "Ataque al carro blindado",
@@ -149,7 +149,7 @@
         "info": "[Español][1967]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9"
         },
 	{
         "name": "Boinas Verdes",
@@ -158,7 +158,7 @@
         "info": "[Español][1968]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9",
         },
 	{
         "name": "Indestructibles, Los",
@@ -167,7 +167,7 @@
         "info": "[Español][1969]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9",
         },
 	{
         "name": "Valor de Ley",
@@ -176,7 +176,7 @@
         "info": "[Español][1969]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9",
         },
 	{
         "name": "Rio Lobo",
@@ -185,7 +185,7 @@
         "info": "[Español][1970]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9",
         },
 	{
         "name": "Chisum, The Leyend",
@@ -194,7 +194,7 @@
         "info": "[Español][1970]",
         "isHost": "true",
         "online": "true",
-        "userAgent": ""
+        "userAgent":"PlusMediaPlayer/0.0.9",
         },
         {
         "name": "Soga de la Horca, La",
