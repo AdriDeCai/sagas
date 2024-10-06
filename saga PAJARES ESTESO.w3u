@@ -11,6 +11,7 @@
         "image": "https://pics.filmaffinity.com/los_bingueros-174018709-large.jpg",
         "url": "",
         "info": "[Español][1979]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
@@ -20,6 +21,7 @@
         "image": "",
         "url": "",
         "info": "[Español][1979]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
@@ -29,6 +31,7 @@
         "image": "",
         "url": "",
         "info": "[Español][1979]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
@@ -38,6 +41,7 @@
         "image": "",
         "url": "",
         "info": "[Español][1979]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
@@ -47,6 +51,7 @@
         "image": "",
         "url": "",
         "info": "[Español][1979]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
@@ -56,11 +61,11 @@
         "image": "",
         "url": "",
         "info": "[Español][1979]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost": "true",
         "online": "true",
         "userAgent": ""
         }
-
 
 ]
 }
