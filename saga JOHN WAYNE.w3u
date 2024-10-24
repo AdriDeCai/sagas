@@ -89,6 +89,15 @@
         "userAgent":"PlusMediaPlayer/0.0.9"
         },
 	{
+        "name": "Conquista del Oeste",
+        "image": "https://pics.filmaffinity.com/how_the_west_was_won-908478679-large.jpg",
+        "url": "https://listeamed.net/v/qA3WOmG1jDPxKkz",
+        "info": "[Español][1962]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9"
+        },
+	{
         "name": "Dia mas largo, El",
         "image": "https://pics.filmaffinity.com/the_longest_day-232797760-large.jpg",
         "url": "https://filemoon.sx/d/tsjc3tqf42la/Dia_mas_largo_El__1962_Pelicula_.mp4",
@@ -196,6 +205,16 @@
         "online": "true",
         "userAgent":"PlusMediaPlayer/0.0.9"
         },
+    	{
+      	"name": "Gran Jack, El",
+      	"image": "https://pics.filmaffinity.com/big_jake-256442736-large.jpg",
+      	"url": "https://listeamed.net/v/ao9rxoRm4YP5yGe",
+      	"info": "[Español][1971]",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+      	"embed": "",
+      	"isHost": "true",
+      	"online": "true"
+    	},
         {
         "name": "Soga de la Horca, La",
         "info": "[1973][Español]",
