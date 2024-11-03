@@ -1,0 +1,41 @@
+{
+"name": "Venom",
+"image": "https://i.postimg.cc/KY52sCYR/Venom-2018-Pelicula.png",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN.",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+    {
+      "name": "VENOM",
+      "info": "2018",
+      "image": "https://i.postimg.cc/KY52sCYR/Venom-2018-Pelicula.png",
+      "url": "https://upstream.to/i0jlkxciukql",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "VENOM, HABRÁ MATANZA",
+      "info": "2021",
+      "image": "https://i.postimg.cc/GpfZNrC3/Venom-la-gran-matanza-2021-Pelicula.jpg",
+      "url": "https://upstream.to/q9h6zuxg96ut",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+{
+      "name": "VENOM HASTA QUE LA MUERTE LOS SEPARE ",
+      "image": "https://i.postimg.cc/SRyzbc30/IMG-20241103-004414-877.jpg",
+      "url": "https://filemoon.sx/d/atddoiaike8i",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    }
+
+]
+}
