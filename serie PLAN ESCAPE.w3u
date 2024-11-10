@@ -1,0 +1,45 @@
+{
+"name": "Plan de Escape",
+"image": "https://pics.filmaffinity.com/escape_plan-288668079-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	{
+	"name": "Plan de Escape 1",
+  "image": "https://pics.filmaffinity.com/escape_plan-288668079-large.jpg",
+  "url": "",
+  "info": "[Español 2013]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "Plan de Escape 2",
+  "image": "https://pics.filmaffinity.com/escape_plan_2_hades-555086814-large.jpg",
+  "url": "",
+  "info": "[Español 2018]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "Plan de Escape 3",
+  "image": "https://pics.filmaffinity.com/escape_plan_the_extractors-577517308-large.jpg",
+  "url": "",
+  "info": "[Español 2019]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  }
+
+]
+}
