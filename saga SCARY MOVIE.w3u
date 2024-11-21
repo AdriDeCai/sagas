@@ -9,59 +9,59 @@
 
 	{
 	"name": "Scary Movie 1",
-  "image": "https://pics.filmaffinity.com/scary_movie-943532513-large.jpg",
-	"url": "https://",
-  "info": "[Español 2000]",
-  "embed": "",
-  "isHost": "true",
-  "online": "true",
+  	"image": "https://pics.filmaffinity.com/scary_movie-943532513-large.jpg",
+	"url": "https://listeamed.net/v/njJYOddDZoYOe9o",
+  	"info": "[Español 2000]",
+  	"embed": "",
+  	"isHost": "true",
+  	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-  "import": false
-  },
+  	"import": false
+  	},
   	{
 	"name": "Scary Movie 2",
-  "image": "https://pics.filmaffinity.com/scary_movie_2-402237693-large.jpg",
-	"url": "https://",
-  "info": "[Español 2001]",
-  "embed": "",
-  "isHost": "true",
-  "online": "true",
+  	"image": "https://pics.filmaffinity.com/scary_movie_2-402237693-large.jpg",
+	"url": "https://listeamed.net/v/4bQVOj3AJZX5wKm",
+  	"info": "[Español 2001]",
+  	"embed": "",
+  	"isHost": "true",
+  	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-  "import": false
-  },
+  	"import": false
+  	},
   	{
 	"name": "Scary Movie 3",
-  "image": "https://pics.filmaffinity.com/scary_movie_3-316846888-large.jpg",
-	"url": "https://",
-  "info": "[Español 2003]",
-  "embed": "",
-  "isHost": "true",
-  "online": "true",
+  	"image": "https://pics.filmaffinity.com/scary_movie_3-316846888-large.jpg",
+	"url": "https://listeamed.net/v/g9Vd5Jy46MXOqQj",
+  	"info": "[Español 2003]",
+  	"embed": "",
+  	"isHost": "true",
+  	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-  "import": false
-  },
+  	"import": false
+  	},
   	{
 	"name": "Scary Movie 4",
-  "image": "https://pics.filmaffinity.com/scary_movie_4-566264825-large.jpg",
-	"url": "https://",
-  "info": "[Español 2006]",
-  "embed": "",
-  "isHost": "true",
-  "online": "true",
+  	"image": "https://pics.filmaffinity.com/scary_movie_4-566264825-large.jpg",
+	"url": "https://listeamed.net/v/l4vexvg1zN3E8B9",
+  	"info": "[Español 2006]",
+  	"embed": "",
+  	"isHost": "true",
+  	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-  "import": false
-  },
+  	"import": false
+  	},
   	{
 	"name": "Scary Movie 5",
-  "image": "https://pics.filmaffinity.com/scary_movie_scary_movie_5-944165271-large.jpg",
-	"url": "https://",
-  "info": "[Español 2013]",
-  "embed": "",
-  "isHost": "true",
-  "online": "true",
+  	"image": "https://pics.filmaffinity.com/scary_movie_scary_movie_5-944165271-large.jpg",
+	"url": "https://listeamed.net/v/qL0YEyz3w7zODRX",
+  	"info": "[Español 2013]",
+  	"embed": "",
+  	"isHost": "true",
+  	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-  "import": false
-  }
+  	"import": false
+  	}
 
-]
+	]
 }
