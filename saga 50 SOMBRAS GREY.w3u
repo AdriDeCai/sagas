@@ -1,0 +1,45 @@
+{
+"name": "50 Sombras Grey",
+"image": "https://pics.filmaffinity.com/fifty_shades_of_grey-307638661-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	{
+	"name": "",
+  "image": "",
+	"url": "https://",
+  "info": "[Español 1979]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "",
+  "image": "",
+	"url": "https://",
+  "info": "[Español 1979]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+  	{
+	"name": "",
+  "image": "",
+	"url": "https://",
+  "info": "[Español 1979]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  }
+
+]
+}
