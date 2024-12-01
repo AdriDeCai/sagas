@@ -8,10 +8,10 @@
 "stations":[
 
 {
-"name": "",
-"image": "",
+"name": "50 Sombras de Grey",
+"image": "https://pics.filmaffinity.com/fifty_shades_of_grey-307638661-large.jpg",
 "url": "https://",
-"info": "[Español 1979]",
+"info": "[Español 2015]",
 "embed": "",
 "isHost": "true",
 "online": "true",
@@ -19,10 +19,10 @@
 "import": false
 },
 {
-"name": "",
-"image": "",
+"name": "50 Sombras mas oscuras",
+"image": "https://pics.filmaffinity.com/fifty_shades_darker-674425946-large.jpg",
 "url": "https://",
-"info": "[Español 1979]",
+"info": "[Español 2016]",
 "embed": "",
 "isHost": "true",
 "online": "true",
@@ -30,10 +30,10 @@
 "import": false
 },
 {
-"name": "",
-"image": "",
+"name": "50 Sombras liberadas",
+"image": "https://pics.filmaffinity.com/fifty_shades_freed-501870462-large.jpg",
 "url": "https://",
-"info": "[Español 1979]",
+"info": "[Español 2018]",
 "embed": "",
 "isHost": "true",
 "online": "true",
