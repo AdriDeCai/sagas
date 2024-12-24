@@ -1,0 +1,45 @@
+{
+"name": "Amityville",
+"image": "https://pics.filmaffinity.com/the_amityville_horror-498203950-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "Terror en Amityville",
+"image": "https://pics.filmaffinity.com/the_amityville_horror-498203950-large.jpg",
+"url": "https://filemoon.to/d/wkrpympwufab/01._Terror_en_Amityville.mp4",
+"info": "[Español 1979]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "",
+"image": "",
+"url": "https:",
+"info": "[Español 1979]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "",
+"image": "",
+"url": "https:",
+"info": "[Español 1979]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
