@@ -39,6 +39,39 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+},
+{
+"name": "Amityville 4. La fuga del mal",
+"image": "https://pics.filmaffinity.com/amityville_the_evil_escapes_amityville_4-942996633-large.jpg",
+"url": "https://filemoon.to/d/np7zmo1ldzef/04._Amityville_IV._La_fuga_del_demonio.mp4",
+"info": "[Español 1989]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Amityville 5. La maldicion de Amityville",
+"image": "https://pics.filmaffinity.com/the_amityville_curse-106638155-large.jpg",
+"url": "https://filemoon.to/d/np7zmo1ldzef/04._Amityville_IV._La_fuga_del_demonio.mp4",
+"info": "[Español 1990]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Amityville 6. 1992 Es cuestion de tiempo",
+"image": "https://pics.filmaffinity.com/amityville_1992_it_s_about_time-879045116-large.jpg",
+"url": "https://filemoon.to/d/djyhn355tsvv/06._Amityville_VI._Es_cuestion_de_tiempo.mp4",
+"info": "[Español 1992]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
 }
 
 ]
