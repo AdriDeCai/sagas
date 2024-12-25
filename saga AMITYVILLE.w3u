@@ -63,10 +63,65 @@
 "import": false
 },
 {
-"name": "Amityville 6. 1992 Es cuestion de tiempo",
+"name": "Amityville 6. Es cuestion de tiempo",
 "image": "https://pics.filmaffinity.com/amityville_1992_it_s_about_time-879045116-large.jpg",
 "url": "https://filemoon.to/d/djyhn355tsvv/06._Amityville_VI._Es_cuestion_de_tiempo.mp4",
 "info": "[Español 1992]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Amityville 7. El rostro del diablo",
+"image": "https://pics.filmaffinity.com/amityville_a_new_generation_the_image_of_evil-456840510-large.jpg",
+"url": "https://filemoon.to/d/as1kxy8xwtg2/07._Amityville_7._El_rostro_del_Diablo.mp4",
+"info": "[Español 1993]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Amityville 8. La casa de muñecas",
+"image": "https://pics.filmaffinity.com/amityville_dollhouse-798922742-large.jpg",
+"url": "https://filemoon.to/d/8wg1xb8hu4qx/08._Amityville_8._La_casa_de_mu_ecas.mp4",
+"info": "[Español 1996]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Amityville 9. La morada del miedo",
+"image": "https://pics.filmaffinity.com/the_amityville_horror-641359054-large.jpg",
+"url": "https://filemoon.to/d/5shi5q72v8yb/09._La_morada_del_miedo.mp4",
+"info": "[Español 2005]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Amityville 10. El despertar",
+"image": "https://pics.filmaffinity.com/amityville_the_awakening-677339472-large.jpg",
+"url": "https://filemoon.to/d/axxq6j6xsdyo/10._Amityville._El_despertar.mp4",
+"info": "[Español 2017]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Amityville 11. El origen",
+"image": "https://pics.filmaffinity.com/the_amityville_murders-709605110-large.jpg",
+"url": "https://filemoon.to/d/yqm0jef03vg6/11._Amityville._El_origen.mp4",
+"info": "[Español 2018]",
 "embed": "",
 "isHost": "true",
 "online": "true",
