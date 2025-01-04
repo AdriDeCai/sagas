@@ -1,0 +1,67 @@
+{
+"name": "Spiderman",
+"image": "https://pics.filmaffinity.com/the_amazing_spider_man_aka_the_amazing_spiderman_tv-878748739-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "Spiderman 1, El hombre araña",
+"image": "https://pics.filmaffinity.com/the_amazing_spider_man_aka_the_amazing_spiderman_tv-878748739-large.jpg",
+"url": "https://listeamed.net/v/g9Vd5JyNK7XOqQj",
+"info": "[Español 1977]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Spiderman 2, El hombre araña en accion",
+"image": "https://pics.filmaffinity.com/the_amazing_spider_man_tv_series-840083193-large.jpg",
+"url": "https://listeamed.net/v/Ro7kOVJ8KoZOZWB",
+"info": "[Español 1978]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Spiderman 3, El desafio del dragon",
+"image": "",
+"url": "https://listeamed.net/v/m7WJxg183KrOBze",
+"info": "[Español 1979]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Spiderman 4, The amazing spiderman",
+"image": "https://pics.filmaffinity.com/the_amazing_spider_man_the_amazing_spiderman-672391099-large.jpg",
+"url": "https://listeamed.net/v/QNB7xAW7y30O0WG",
+"info": "[Español 2012]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Spiderman 5, El poder de Electro",
+"image": "https://pics.filmaffinity.com/the_amazing_spider_man_2_rise_of_electro-715327272-large.jpg",
+"url": "https://listeamed.net/v/g9Vd5JyNKmXOqQj",
+"info": "[Español 2014]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
