@@ -61,6 +61,39 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+},
+{
+"name": "Spiderman 6, Homecoming",
+"image": "https://pics.filmaffinity.com/spider_man_homecoming-336093112-large.jpg",
+"url": "https://listeamed.net/v/KrdZ5kM0PdoEmX4",
+"info": "[Español 2017]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Spiderman 7, Lejos de casa",
+"image": "https://pics.filmaffinity.com/spider_man_far_from_home-339542528-large.jpg",
+"url": "https://listeamed.net/v/l4vexvgMzDZE8B9",
+"info": "[Español 2019]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Spiderman 8, No way home",
+"image": "https://pics.filmaffinity.com/spider_man_no_way_home-642739124-large.jpg",
+"url": "https://listeamed.net/v/3Q0lxBblqqLxj1J",
+"info": "[Español 2021]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
 }
 
 ]
