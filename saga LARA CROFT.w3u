@@ -1,0 +1,45 @@
+{
+"name": "Lara Croft, Tom Raider",
+"image": "https://pics.filmaffinity.com/lara_croft_tomb_raider-608849532-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "Lara Croft, Tom Raider",
+"image": "https://pics.filmaffinity.com/lara_croft_tomb_raider-608849532-large.jpg",
+"url": "https:",
+"info": "[Español 2001]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Lara Croft, Tom Raider: La cuna",
+"image": "https://pics.filmaffinity.com/lara_croft_tomb_raider_the_cradle_of_life-430297978-large.jpg",
+"url": "https:",
+"info": "[Español 2003]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Tom Raider",
+"image": "https://pics.filmaffinity.com/tomb_raider-485556121-large.jpg",
+"url": "https:",
+"info": "[Español 2018]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
