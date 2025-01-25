@@ -1,0 +1,44 @@
+{
+"name": "8 Apellidos",
+"image": "https://pics.filmaffinity.com/ocho_apellidos_vascos-836127633-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+    {
+      "name": "8 APELLIDOS 1 (VASCOS)",
+      "image": "https://pics.filmaffinity.com/ocho_apellidos_vascos-836127633-large.jpg",
+      "url": "https://filemoon.to/d/p8o1atpdnkdo/8_Apellidos_1_vascos_2014_pelicula_castellano.mp4",
+      "info": "2014",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "8 APELLIDOS 2 (CATALANES)",
+      "image": "https://pics.filmaffinity.com/ocho_apellidos_catalanes-640444128-large.jpg",
+      "url": "https://filemoon.to/d/df1710svlzuf/8_Apellidos_2_catalanes_2015_pelicula_castellano.mp4",
+      "info": "2015",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "8 APELLIDOS 3 (MARROQUÍS)",
+      "image": "https://pics.filmaffinity.com/ocho_apellidos_marroquis-568123490-large.jpg",
+      "url": "https://filemoon.to/d/kvtbr3uidrxi/8_Apellidos_3_marroquies_2023_pelicula_castellano.mp4",
+      "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    }
+]
+}
