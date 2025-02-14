@@ -39,6 +39,28 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+},
+{
+"name": "Bridget Jones, loca por el",
+"image": "https://pics.filmaffinity.com/bridget_jones_mad_about_the_boy-609929628-large.jpg",
+"url": "https://ryderjet.com/file/fhenei7caai6",
+"info": "[Latino 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Bridget Jones, loca por el",
+"image": "https://pics.filmaffinity.com/bridget_jones_mad_about_the_boy-609929628-large.jpg",
+"url": "https://ryderjet.com/file/qclgpsmq1g8d",
+"info": "[VOSE 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
 }
 
 ]
