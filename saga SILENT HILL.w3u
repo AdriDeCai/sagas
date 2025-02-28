@@ -1,0 +1,70 @@
+
+
+{
+"name": "Silent Hill",
+"image": "https://pics.filmaffinity.com/silent_hill-444831227-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "Silent Hill 1",
+"image": "https://pics.filmaffinity.com/silent_hill-444831227-large.jpg",
+"url": "https://nikaplayerr.com/file/",
+"info": "[Español 2006]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Silent Hill 1",
+"image": "https://pics.filmaffinity.com/silent_hill-444831227-large.jpg",
+"url": "https://nikaplayerr.com/file/",
+"info": "[Latino 2006]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "",
+"image": "https://pics.filmaffinity.com/silent_hill-444831227-large.jpg",
+"url": "https://nikaplayerr.com/file/",
+"info": "[VOSE 2006]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Silent Hill 2",
+"image": "https://pics.filmaffinity.com/silent_hill_revelation_3d_silent_hill_2-844320322-large.jpg",
+"url": "https://nikaplayerr.com/file/",
+"info": "[Latino 2012]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Silent Hill 2",
+"image": "https://pics.filmaffinity.com/silent_hill_revelation_3d_silent_hill_2-844320322-large.jpg",
+"url": "https://nikaplayerr.com/file/",
+"info": "[VOSE 2012]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
+
