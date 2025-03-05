@@ -1,0 +1,45 @@
+{
+"name": "Sonic",
+"image": "https://pics.filmaffinity.com/sonic_the_hedgehog-730493692-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "Sonic 1, La pelicula",
+"image": "https://pics.filmaffinity.com/sonic_the_hedgehog-730493692-large.jpg",
+"url": "https://listeamed.net/v/6zeREaM4zn7EZPa",
+"info": "[Español 2020]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Sonic 2, La pelicula",
+"image": "https://pics.filmaffinity.com/sonic_the_hedgehog_2-126622695-large.jpg",
+"url": "https://listeamed.net/v/MAlwEMengdlEJ39",
+"info": "[Español 2022]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Sonic 3, La pelicula",
+"image": "https://pics.filmaffinity.com/sonic_the_hedgehog_3-737206072-large.jpg",
+"url": "https://listeamed.net/v/PlBVEZkBzLaODv9",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
