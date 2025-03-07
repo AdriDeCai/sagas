@@ -1,0 +1,34 @@
+{
+"name": "Sherlock Holmes",
+"image": "https://pics.filmaffinity.com/sherlock_holmes-617003864-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20RENDEL.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "Sherlock Holmes 1",
+"image": "https://pics.filmaffinity.com/sherlock_holmes-617003864-large.jpg",
+"url": "https:",
+"info": "[Español 2009]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Sherlock Holmes 2",
+"image": "https://pics.filmaffinity.com/sherlock_holmes_a_game_of_shadows_sherlock_holmes_2-410280712-large.jpg",
+"url": "https:",
+"info": "[Español 2011]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
