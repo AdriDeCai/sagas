@@ -1,0 +1,67 @@
+{
+"name": "Mad Max",
+"image": "https://pics.filmaffinity.com/mad_max-632940430-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "Salvajes de autopistas",
+"image": "https://pics.filmaffinity.com/mad_max-632940430-large.jpg",
+"url": "https://listeamed.net/v/KrdZ5kdvAKaxmX4",
+"info": "[Español 1979]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Guerrero de la carretera",
+"image": "https://pics.filmaffinity.com/mad_max_2_the_road_warrior-638819106-large.jpg",
+"url": "https://listeamed.net/v/27BaOn1okn2EMDX",
+"info": "[Español 1979]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Mas alla de la cupula del trueno",
+"image": "https://pics.filmaffinity.com/mad_max_beyond_thunderdome-591668589-large.jpg",
+"url": "https://listeamed.net/v/Ro7kOVVXYnoOZWB",
+"info": "[Español 1985]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Furia en la carretera",
+"image": "https://pics.filmaffinity.com/mad_max_fury_road-429261909-large.jpg",
+"url": "https://listeamed.net/v/JzkPxzn7krMxbyd",
+"info": "[Español 2015]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Furiosa, de la saga Mad Max",
+"image": "https://pics.filmaffinity.com/furiosa_a_mad_max_saga-599306128-large.jpg",
+"url": "https://listeamed.net/v/ao9rxoR2kqM5yGe",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
