@@ -1,0 +1,45 @@
+{
+"name": "Hobbit, El",
+"image": "https://pics.filmaffinity.com/the_hobbit_an_unexpected_journey-249234415-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "Un viaje inesperado",
+"image": "https://pics.filmaffinity.com/the_hobbit_an_unexpected_journey-249234415-large.jpg",
+"url": "https://listeamed.net/v/pVa4E8MLM7yOkzM",
+"info": "[Español 2012]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "La desolacion de Smaug",
+"image": "https://pics.filmaffinity.com/the_hobbit_the_desolation_of_smaug-498845622-large.jpg",
+"url": "https://listeamed.net/v/nyg9EKDGw9BObk4",
+"info": "[Español 2013]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "La batalla de los 5 ejercitos",
+"image": "https://pics.filmaffinity.com/the_hobbit_the_battle_of_the_five_armies-282438316-large.jpg",
+"url": "https://listeamed.net/v/k3gG5q3L4oDE1N2",
+"info": "[Español 2014]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
