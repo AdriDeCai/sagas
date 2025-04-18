@@ -1,0 +1,45 @@
+{
+"name": "El Padrino",
+"image": "https://pics.filmaffinity.com/the_godfather-488102675-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "El Padrino I",
+"image": "https://pics.filmaffinity.com/the_godfather-488102675-large.jpg",
+"url": "//listeamed.net/v/qM1VOPN3DBnxo4k",
+"info": "[Español 1972]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "El Padrino II",
+"image": "https://pics.filmaffinity.com/the_godfather_part_ii-617901053-large.jpg",
+"url": "//listeamed.net/v/04rQxWWVK4Axb2N",
+"info": "[Español 1974]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "El Padrino III",
+"image": "https://pics.filmaffinity.com/the_godfather_part_iii-171971720-large.jpg",
+"url": "//listeamed.net/v/njJYOd30Va7Ee9o",
+"info": "[Español 1990]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
