@@ -1,0 +1,56 @@
+{
+"name": "Matrix",
+"image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "Matrix I",
+"image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
+"url": "https://listeamed.net/v/PlBVEZ0e69w5Dv9",
+"info": "[Español 1999]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Matrix Revolutions",
+"image": "https://pics.filmaffinity.com/the_matrix_revolutions-289564524-large.jpg",
+"url": "https://listeamed.net/v/8ozgENLXJbY5mjA",
+"info": "[Español 2003]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Matrix Reloaded",
+"image": "https://pics.filmaffinity.com/the_matrix_reloaded-133935821-large.jpg",
+"url": "https://listeamed.net/v/KNWlEDN6jyz5kbp",
+"info": "[Español 2003]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Matrix Resurrections",
+"image": "https://pics.filmaffinity.com/the_matrix_resurrections-864937945-large.jpg",
+"url": "https://listeamed.net/v/PKN4OwnoQLXEDLj",
+"info": "[Español 2021]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
