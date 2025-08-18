@@ -1,7 +1,7 @@
 {"name": "MISION IMPOSIBLE",
 "image": "https://pics.filmaffinity.com/mission_impossible-107188957-large.jpg",
 "url": "https://sagas-af1cionados.vercel.app/saga%20MISION%20IMPOSIBLE.w3u",
-"info": "bY AdriDeCai",
+"info": "bY Af1cionados",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
 "stations":[
@@ -77,6 +77,17 @@
         "image": "https://pics.filmaffinity.com/mission_impossible_dead_reckoning_part_one-902615661-large.jpg",
         "url": "https://listeamed.net/v/wP2050e89ZLxdmy",
        	"info": "[2023]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Mision Imposible Sentencia Final",
+        "image": "https://pics.filmaffinity.com/mission_impossible_the_final_reckoning-565388979-large.jpg",
+        "url": "https://listeamed.net/v/6zeREa14ADGEZPa",
+       	"info": "[2025]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
