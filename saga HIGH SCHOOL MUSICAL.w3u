@@ -2,7 +2,7 @@
 "name": "High School Musical",
 "image": "https://pics.filmaffinity.com/high_school_musical_hsm-718907368-large.jpg",
 "url": "https://raw.githubusercontent.com/AdriDeCai/sagas/main/saga HIGH SCHOOL MUSICAL.w3u",
-"info": "bY AdriDeCai",
+"info": "bY Af1cionados",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
 "stations": 
@@ -12,7 +12,7 @@
         "name": "High School Musical I",
         "info": "[2006][Español]",
         "image": "https://pics.filmaffinity.com/high_school_musical_hsm-718907368-large.jpg",
-        "url": "https://filemoon.sx/d/1xvnlfgc470g",
+        "url": "https://filemoon.to/d/qcj15t50op6t/High_School_Musical",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -21,16 +21,25 @@
         "name": "High School Musical II",
         "info": "[2007][Español]",
         "image": "https://pics.filmaffinity.com/high_school_musical_2_hsm_2-318249736-large.jpg",
-        "url": "https://filemoon.sx/d/ncnu7d73w5qq",
+        "url": "https://filemoon.to/d/ju521g8ispkt/High_School_Musical_2",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
-        "name": "High School Musical III",
+        "name": "High School Musical III. Fin de Curso",
         "info": "[2008][Español]",
         "image": "https://pics.filmaffinity.com/high_school_musical_3_senior_year_hsm_3-632878795-large.jpg",
-        "url": "https://filemoon.sx/d/y2t32whcnet4",
+        "url": "https://filemoon.to/d/lz6o6q7fvfrn/High_School_Musical_3__Fin_de_curso",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "High School Musical: The Musical: The Holiday Special",
+        "info": "[2020][Español]",
+        "image": "https://pics.filmaffinity.com/high_school_musical_the_musical_the_holiday_special-355790320-large.jpg",
+        "url": "https://filemoon.to/d/5s9exj8hzwcz/High_School_Musical__The_Musical__The_Holiday_Special",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
