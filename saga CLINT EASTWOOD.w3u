@@ -132,6 +132,18 @@
         "isHost": "true",
         "online": "true"
         },
+	    {
+        "name": "El Sargento de Hierro",
+        "image": "https://pics.filmaffinity.com/heartbreak_ridge-553920432-large.jpg",
+        "url": "https://filemoon.to/d/22ls7wqp9jl0/El_sargento_de_hierro",
+        "info": "[Español][1986]",
+		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
+		},
 	      {
         "name": "Bird",
         "image": "https://pics.filmaffinity.com/celebrating_bird_the_triumph_of_charlie_parker_american_masters-992859859-large.jpg",
