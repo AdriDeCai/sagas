@@ -7,10 +7,10 @@
 "telegram": "@YIsus_mEx",
 "stations":[
 
-	{
+		{
 		"name": "Avatar",
         "image": "https://pics.filmaffinity.com/avatar-208925608-large.jpg",
-        "url": "https://filemoon.to/d/k6znmmqtpk0a/Avatar",
+        "url": "https://bysesayeveum.com/d/iy7aeuiwhnyz",
        	"info": "[Español 2009]",
        	"embed": "",
        	"isHost": "true",
@@ -18,11 +18,22 @@
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	},
-	{
-		"name": "Avatar, el sentido del agua",
+		{
+		"name": "Avatar 2, el sentido del agua",
         "image": "https://pics.filmaffinity.com/avatar_the_way_of_water-722646748-large.jpg",
-        "url": "https://filemoon.to/d/3prcbp4e0wla/Avatar_El_sentido_del_agua",
+        "url": "https://bysesayeveum.com/d/1rhdywamzo1f",
        	"info": "[Español 2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+		{
+		"name": "Avatar 3, Fuego y Ceniza",
+        "image": "https://pics.filmaffinity.com/avatar_fire_and_ash-103982566-large.jpg",
+        "url": "https://bysesayeveum.com/d/muws0d3j78lc",
+       	"info": "[Español 2025]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
