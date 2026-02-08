@@ -1,0 +1,45 @@
+{
+"name": "Avengers. Los Vengadores",
+"image": "https://pics.filmaffinity.com/the_avengers-439499921-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "Avengers. Los Vengadores",
+"image": "https://pics.filmaffinity.com/the_avengers-439499921-large.jpg",
+"url": "https://byseraguci.com/d/d12zxd9z0v1n/los-vengadores",
+"info": "[Español 2012]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"import": false
+},
+{
+"name": "Avengers. Los Vengadores: La era de Ultrón 2015",
+"image": "https://pics.filmaffinity.com/avengers_age_of_ultron_the_avengers_2-182285335-large.jpg",
+"url": "https://byseraguci.com/d/t89pn7yh1478",
+"info": "[Español 2015]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"import": false
+},
+{
+"name": "Avengers. Los Vengadores: Infinity War",
+"image": "https://pics.filmaffinity.com/avengers_infinity_war-181539353-large.jpg",
+"url": "https://byseraguci.com/d/8tmb12du9i1y/los-vengadores-infinity-war",
+"info": "[Español 2019]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"import": false
+}
+
+]
+}
