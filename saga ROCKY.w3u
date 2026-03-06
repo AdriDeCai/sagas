@@ -1,0 +1,83 @@
+{
+"name": "Rocky",
+"image": "https://pics.filmaffinity.com/rocky-253483905-large.jpg",
+"url": "https://af1cionados.vercel.app/saga%20ROCKY.w3u",
+"info": "bY Af1cionados",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations": 
+    [
+                {
+                "name": "Rocky (Pelicula)",
+                "info":"(1976)",
+                "image": "https://pics.filmaffinity.com/rocky-253483905-large.jpg",
+                "url": "https://bysesayeveum.com/d/q3640asunb2o/rocky",
+                "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true",
+                "import": false
+                },                
+                {
+                "name": "Rocky II (Pelicula)",
+                "info":"(1979)",
+                "image": "https://pics.filmaffinity.com/rocky_ii-638848007-large.jpg",
+                "url": "https://bysesayeveum.com/d/m2ga8poepp5t/rocky-ii",
+                "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true",
+                "import": false
+                },
+                {
+                "name": "Rocky III (Pelicula)",
+                "info":"(1982)",
+                "image": "https://pics.filmaffinity.com/rocky_iii-182829734-large.jpg",
+                "url": "https://bysesayeveum.com/d/csbjqvldd90j/rocky-iii",
+                "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true",
+                "import": false
+                },
+                {
+                "name": "Rocky IV (Pelicula)",
+                "info":"(1985)",
+                "image": "https://pics.filmaffinity.com/rocky_iv-104851625-large.jpg",
+                "url": "https://bysesayeveum.com/d/6sa7hx1rxi70/rocky-iv",
+                "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true",
+                "import": false
+                },
+                {
+                "name": "Rocky V (Pelicula)",
+                "info":"(1990)",
+                "image": "https://pics.filmaffinity.com/rocky_v-872053278-large.jpg",
+                "url": "https://bysesayeveum.com/d/ftgvh0mxg91v/rocky-v",
+                "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true",
+                "import": false
+                },
+                {
+                "name": "Rocky Balboa (Pelicula)",
+                "info":"(2006)",
+                "image": "https://pics.filmaffinity.com/rocky_balboa-314141025-large.jpg",
+                "url": "https://bysesayeveum.com/d/jnl6g1bckmvz/rocky-balboa",
+                "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
+                "embed":"",
+                "isHost":"true",
+                "online":"true",
+                "import": false
+                }
+  ]
+}
