@@ -6,38 +6,42 @@
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
 "stations": 
-                [
-
+      [
                 {
                 "name": "Creed I La leyenda Rocky (Pelicula)",
                 "info":"(2015)",
                 "image": "https://pics.filmaffinity.com/creed-232228847-large.jpg",
-                "url": "https://listeamed.net/v/qL0YEyP1ybQxDRX",
-                "userAgent":"PlusMediaPlayer/0.0.9",
+                "url": "https://bysesayeveum.com/d/kzins1u1ytoi/creed-la-leyenda-de-rocky",
+                "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true",
+                "import": false
                 },                
                 {
                 "name": "Creed II La leyenda Rocky (Pelicula)",
                 "info":"(2018)",
                 "image": "https://pics.filmaffinity.com/creed_ii-331206102-large.jpg",
-                "url": "https://listeamed.net/v/e028E6RMN2QEYAv",
-                "userAgent":"PlusMediaPlayer/0.0.9",
+                "url": "https://bysesayeveum.com/d/mqim1oda45sc/creed-ii-la-leyenda-de-rocky",
+                "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true",
+                "import": false
                 },
                 {
                 "name": "Creed III La leyenda Rocky (Pelicula)",
                 "info":"(2023)",
                 "image": "https://pics.filmaffinity.com/creed_iii-358416025-large.jpg",
-                "url": "https://listeamed.net/v/27BaOn16l3KEMDX",
-                "userAgent":"PlusMediaPlayer/0.0.9",
+                "url": "https://bysesayeveum.com/d/trz9wgredb0j/creed-3",
+                "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                "referer": "",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true",
+                "import": false
                 }
-
 ]
 }
