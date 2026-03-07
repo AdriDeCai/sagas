@@ -1,7 +1,7 @@
 {
 "name": "TORRENTE",
 "image": "https://pics.filmaffinity.com/torrente_el_brazo_tonto_de_la_ley-769153589-large.jpg",
-"url": "https://raw.githubusercontent.com/AdriDeCai/sagas/main/saga%20TORRENTE.w3u",
+"url": "https://sagas-af1cionados.vercel.app/saga%20TORRENTE.w3u",
 "info": "bY Af1cionados",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "",
@@ -10,57 +10,62 @@
 		{
 		"name": "Torrente, el brazo tonto de la ley",
         "image": "https://pics.filmaffinity.com/torrente_el_brazo_tonto_de_la_ley-769153589-large.jpg",
-        "url": "https://listeamed.net/v/3Q0lxBWzBAwEj1J",
+        "url": "https://bysesayeveum.com/d/icseee071vm5/torrente-i-1998",
        	"info": "[Español 1998]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-       	"import": false
+		"referer": "",
+		"embed":"",
+		"isHost":"true",
+		"online":"true",
+		"import": false
        	},
 		{
 		"name": "Torrente 2: Misión en Marbella",
         "image": "https://pics.filmaffinity.com/torrente_2_mision_en_marbella-426650610-large.jpg",
-        "url": "https://listeamed.net/v/3Q0lxBWzBLmEj1J",
+        "url": "https://bysesayeveum.com/d/hfgr7a818l5t/torrente-ii-mision-en-marbella-2001",
        	"info": "[Español 2001]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-       	"import": false
+		"referer": "",
+		"embed":"",
+		"isHost":"true",
+		"online":"true",
+		"import": false
        	},
 		{
 		"name": "Torrente 3: El protector",
         "image": "https://pics.filmaffinity.com/torrente_3_el_protector-816745588-large.jpg",
-        "url": "https://listeamed.net/v/KNWlEDNnYPn5kbp",
+        "url": "https://bysesayeveum.com/d/fwbbdad69nut/torrente-iii-el-protector-2005",
        	"info": "[Español 2005]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-       	"import": false
+		"referer": "",
+		"embed":"",
+		"isHost":"true",
+		"online":"true",
+		"import": false
        	},
 		{
 		"name": "Torrente 4: Lethal Crisis (Crisis Letal)",
         "image": "https://pics.filmaffinity.com/torrente_4_lethal_crisis_crisis_letal-159607457-large.jpg",
-        "url": "https://listeamed.net/v/3Q0lxBWzBpMEj1J",
+        "url": "https://bysesayeveum.com/d/oguzvnj4q9c3/torrente-iv-lethal-crisis-2011",
        	"info": "[Español 2011]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-       	"import": false
+		"referer": "",
+		"embed":"",
+		"isHost":"true",
+		"online":"true",
+		"import": false
        	},
 		{
 		"name": "Torrente 5: Operación Eurovegas",
         "image": "https://pics.filmaffinity.com/torrente_5_operacion_eurovegas-241259676-large.jpg",
-        "url": "https://listeamed.net/v/e028E6R2w0pEYAv",
+        "url": "https://bysesayeveum.com/d/x2ygisgqpjj2/torrente-v-operacion-eurovegas-2014",
        	"info": "[Español 2014]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-       	"import": false
+		"referer": "",
+		"embed":"",
+		"isHost":"true",
+		"online":"true",
+		"import": false
        	}
-]
+	]
 }
