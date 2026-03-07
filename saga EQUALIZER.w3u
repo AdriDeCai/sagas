@@ -4,34 +4,43 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
-
-	        {
+"stations":
+	[
+	    {
         "name": "Equalizer 1",
         "image": "https://image.tmdb.org/t/p/w300/mSHUWWeu7aiA7nzbMsjRB9HYseN.jpg",
-        "url": "https://filemoon.to/d/ukjkamah47dn",
+        "url": "https://bysesayeveum.com/d/r61pg92t1d1y/ver-the-equalizer-el-protector-online-castellano-2014-pelicula-hdfull",
         "info": "[Español][2014]",
-        "userAgent":"PlusMediaPlayer/0.0.9",
-        "isHost": "true",
-        "online": "true"        
+        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false       
         },
         {
         "name": "Equalizer 2",
         "image": "https://image.tmdb.org/t/p/original/zMdzUIiWXuXAYjlxdSkwG6KlAmU.jpg",
-        "url": "https://filemoon.to/d/4owxqcacn6bb",
+        "url": "https://bysesayeveum.com/d/kyf2wnwvhjhm/ver-the-equalizer-2-online-castellano-2018-pelicula-hdfull",
         "info": "[Español][2018]",
-        "userAgent":"PlusMediaPlayer/0.0.9",
-        "isHost": "true",
-        "online": "true"
+        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false 
         },
         {
         "name": "Equalizer 3",
         "image": "https://image.tmdb.org/t/p/w300/eJKmexmCLwuxOxlAURSMnBVkfmY.jpg",
-        "url": "https://filemoon.to/d/3uq0yv0fpj95",
+        "url": "https://bysesayeveum.com/d/s1f0budaowg6/ver-the-equalizer-3-el-justiciero-3-capítulo-final-online-castellano-2023-pelicula-hdfull",
         "info": "[Español][2023]",
-        "userAgent":"PlusMediaPlayer/0.0.9",
-        "isHost": "true",
-        "online": "true"
+        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false 
         }
-        ]
-        }
+    ]
+}
