@@ -1,0 +1,60 @@
+{
+"name": "Mercenarios, Los",
+"image": "https://pics.filmaffinity.com/the_expendables-597606855-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/",
+"info": "bY Af1cionados",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "Mercenarios 1",
+"image": "https://pics.filmaffinity.com/the_expendables-597606855-large.jpg",
+"url": "https://bysesayeveum.com/d/g49jietb7rj7/1-los-mercenarios-2010",
+"info": "[Español][2010]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"import": false
+},
+{
+"name": "Mercenarios 2",
+"image": "https://pics.filmaffinity.com/the_expendables_2-478819512-large.jpg",
+"url": "https://bysesayeveum.com/d/u47uqjx9muks/2-los-mercenarios-2-2012",
+"info": "[Español][2012]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"import": false
+},
+{
+"name": "Mercenarios 3",
+"image": "https://pics.filmaffinity.com/the_expendables_3-578604502-large.jpg",
+"url": "https://bysesayeveum.com/d/o22krwle3ear/3-los-mercenarios-3-2014",
+"info": "[Español][2014]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"import": false
+},
+{
+"name": "Mercenarios 4",
+"image": "ttps://pics.filmaffinity.com/expend4bles-749216540-large.jpg",
+"url": "",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"import": false
+}
+
+]
+}
