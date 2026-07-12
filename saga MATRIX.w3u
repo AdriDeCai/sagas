@@ -2,53 +2,57 @@
 "name": "Matrix",
 "image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
 "url": "https://sagas-af1cionados.vercel.app/saga%20MATRIX.w3u",
-"info": "bY AdriDeCai",
+"info": "bY Af1cionados",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
-
+"stations":
+[
 {
 "name": "Matrix I",
 "image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
-"url": "https://listeamed.net/v/PlBVEZ0e69w5Dv9",
+"url": "",
 "info": "[Español 1999]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
 "embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"online":"true",
 "import": false
 },
 {
 "name": "Matrix Reloaded",
 "image": "https://pics.filmaffinity.com/the_matrix_reloaded-133935821-large.jpg",
-"url": "https://listeamed.net/v/KNWlEDN6jyz5kbp",
+"url": "",
 "info": "[Español 2003]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
 "embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"online":"true",
 "import": false
 },
 {
 "name": "Matrix Revolutions",
 "image": "https://pics.filmaffinity.com/the_matrix_revolutions-289564524-large.jpg",
-"url": "https://listeamed.net/v/8ozgENLXJbY5mjA",
+"url": "",
 "info": "[Español 2003]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
 "embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"online":"true",
 "import": false
 },
 {
 "name": "Matrix Resurrections",
 "image": "https://pics.filmaffinity.com/the_matrix_resurrections-864937945-large.jpg",
-"url": "https://listeamed.net/v/PKN4OwnoQLXEDLj",
+"url": "",
 "info": "[Español 2021]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
 "embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"online":"true",
 "import": false
 }
 
