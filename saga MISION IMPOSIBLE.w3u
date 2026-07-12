@@ -1,4 +1,5 @@
-{"name": "MISION IMPOSIBLE",
+{
+"name": "MISION IMPOSIBLE",
 "image": "https://pics.filmaffinity.com/mission_impossible-107188957-large.jpg",
 "url": "https://sagas-af1cionados.vercel.app/saga%20MISION%20IMPOSIBLE.w3u",
 "info": "bY Af1cionados",
@@ -7,92 +8,100 @@
 "stations":[
 
 	{
-	"name": "Mision Imposible I",
+		"name": "Mision Imposible I",
         "image": "https://pics.filmaffinity.com/mission_impossible-107188957-large.jpg",
         "url": "",
        	"info": "[1996]",
-       	"embed": "true",
-       	"isHost": "true",
-       	"online": "true",
-        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-       	"import": false
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "true",
+		"isHost":"true",
+		"online":"true",
+		"import": false
        	},
 	{
-	"name": "Mision Imposible II",
+		"name": "Mision Imposible II",
         "image": "https://pics.filmaffinity.com/mission_impossible_2_m_i_2-704255287-large.jpg",
         "url": "",
        	"info": "[2000]",
-       	"embed": "true",
-       	"isHost": "true",
-       	"online": "true",
-        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-       	"import": false
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "true",
+		"isHost":"true",
+		"online":"true",
+		"import": false
        	},
 	{
-	"name": "Mision Imposible III",
+		"name": "Mision Imposible III",
         "image": "https://pics.filmaffinity.com/mission_impossible_iii_m_i_iii-654906638-large.jpg",
         "url": "",
        	"info": "[2006]",
-       	"embed": "true",
-       	"isHost": "true",
-       	"online": "true",
-        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-       	"import": false
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "true",
+		"isHost":"true",
+		"online":"true",
+		"import": false
        	},
 	{
-	"name": "Mision Imposible Protocolo Fantasma",
+		"name": "Mision Imposible Protocolo Fantasma",
         "image": "https://pics.filmaffinity.com/mission_impossible_ghost_protocol-284514904-mmed.jpg",
         "url": "",
        	"info": "[2011]",
-       	"embed": "true",
-       	"isHost": "true",
-       	"online": "true",
-        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-       	"import": false
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "true",
+		"isHost":"true",
+		"online":"true",
+		"import": false
        	},
 	{
-	"name": "Mision imposible Nacion Secreta",
+		"name": "Mision imposible Nacion Secreta",
         "image": "https://pics.filmaffinity.com/mission_impossible_rogue_nation-224283177-large.jpg",
         "url": "",
        	"info": "[2015]",
-       	"embed": "true",
-       	"isHost": "true",
-       	"online": "true",
-        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-       	"import": false
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "true",
+		"isHost":"true",
+		"online":"true",
+		"import": false
        	},
 	{
-	"name": "Mision Imposible VI Fallout",
+		"name": "Mision Imposible VI Fallout",
         "image": "https://pics.filmaffinity.com/mission_impossible_fallout-180739766-large.jpg",
         "url": "",
        	"info": "[2018]",
-       	"embed": "true",
-       	"isHost": "true",
-       	"online": "true",
-        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-       	"import": false
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "true",
+		"isHost":"true",
+		"online":"true",
+		"import": false
        	},
 	{
-	"name": "Mision Imposible Sentencia Mortal Parte I",
+		"name": "Mision Imposible Sentencia Mortal Parte I",
         "image": "https://pics.filmaffinity.com/mission_impossible_dead_reckoning_part_one-902615661-large.jpg",
         "url": "",
        	"info": "[2023]",
-       	"embed": "true",
-       	"isHost": "true",
-       	"online": "true",
-        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-       	"import": false
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "true",
+		"isHost":"true",
+		"online":"true",
+		"import": false
        	},
 	{
-	"name": "Mision Imposible Sentencia Final",
+		"name": "Mision Imposible Sentencia Final",
         "image": "https://pics.filmaffinity.com/mission_impossible_the_final_reckoning-565388979-large.jpg",
         "url": "",
        	"info": "[2025]",
-       	"embed": "true",
-       	"isHost": "true",
-       	"online": "true",
-        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-       	"import": false
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "true",
+		"isHost":"true",
+		"online":"true",
+		"import": false
        	}
 
 ]
