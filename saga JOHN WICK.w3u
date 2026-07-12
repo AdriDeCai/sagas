@@ -1,0 +1,68 @@
+{
+"name": "JOHN WICK",
+"image": "https://pics.filmaffinity.com/john_wick-166872838-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/sagas/main/saga JOHN WICK.w3u",
+"info": "bY Af1cionados",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+[
+
+	{
+	"name": "John Wick: Otro día para matar",
+        "image": "https://pics.filmaffinity.com/john_wick-166872838-large.jpg",
+        "url": "",
+       	"info": "[Español 2014]",
+	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"referer": "",
+	"embed": "true",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+       	},
+	{
+	"name": "John Wick: Pacto de sangre",
+        "image": "https://pics.filmaffinity.com/john_wick_chapter_two-435532369-large.jpg",
+        "url": "",
+       	"info": "[Español 2017]",
+	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"referer": "",
+	"embed": "true",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+       	},
+        {
+	"name": "John Wick: Parabellum",
+        "image": "https://pics.filmaffinity.com/john_wick_chapter_3_parabellum-953528381-large.jpg",
+        "url": "",
+       	"info": "[Español 2019]",
+	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"referer": "",
+	"embed": "true",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+       	},
+	{
+	"name": "John Wick",
+        "image": "https://pics.filmaffinity.com/john_wick_chapter_4-101402041-large.jpg",
+        "url": "",
+       	"info": "[Español 2023]",
+	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"referer": "",
+	"embed": "true",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+       	}
+
+]
+}
+
+
+
+
+
+
+        
