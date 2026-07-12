@@ -1,0 +1,61 @@
+{
+"name": "MINIONS",
+"image": "https://pics.filmaffinity.com/minions-199956794-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/sagas/main/saga MINIONS.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+[
+
+	{
+        "name": "MINIONS, LOS",
+	"info": "2015",
+	"image": "https://pics.filmaffinity.com/minions-199956794-large.jpg", 
+	"url": "",
+	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"referer": "",
+	"embed": "true",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{
+        "name": "MINIONS, EL ORIGEN DE GRU",
+	"info": "2022",
+	"image": "https://i.postimg.cc/vBJCPHL5/Minions-el-origen-de-Gru-2022-Pelicula-infantil.jpg", 
+	"url": "",
+	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"referer": "",
+	"embed": "true",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{
+        "name": "MINIONS Y SUS AMIGOS VOL 1",
+	"info": "2022",
+	"image": "https://pics.filmaffinity.com/minions_more_1-972943007-large.jpg", 
+	"url": "",
+	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"referer": "",
+	"embed": "true",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{
+        "name": "MINIONS Y SUS AMIGOS VOL 2",
+	"info": "2022",
+	"image": "https://pics.filmaffinity.com/minions_more_2-712819410-large.jpg", 
+	"url": "",
+	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"referer": "",
+	"embed": "true",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	}
+
+]
+}
