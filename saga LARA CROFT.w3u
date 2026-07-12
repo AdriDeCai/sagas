@@ -1,0 +1,48 @@
+{
+"name": "Lara Croft, Tom Raider",
+"image": "https://pics.filmaffinity.com/lara_croft_tomb_raider-608849532-large.jpg",
+"url": "https://sagas-af1cionados.vercel.app/saga%20LARA%20CROFT.w3u",
+"info": "bY Af1cionados",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+[
+{
+"name": "Lara Croft, Tom Raider",
+"image": "https://pics.filmaffinity.com/lara_croft_tomb_raider-608849532-large.jpg",
+"url": "",
+"info": "[Español 2001]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost":"true",
+"online":"true",
+"import": false
+},
+{
+"name": "Lara Croft, Tom Raider: La cuna",
+"image": "https://pics.filmaffinity.com/lara_croft_tomb_raider_the_cradle_of_life-430297978-large.jpg",
+"url": "",
+"info": "[Español 2003]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost":"true",
+"online":"true",
+"import": false
+},
+{
+"name": "Tom Raider",
+"image": "https://pics.filmaffinity.com/tomb_raider-485556121-large.jpg",
+"url": "",
+"info": "[Español 2018]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost":"true",
+"online":"true",
+"import": false
+}
+
+]
+}
