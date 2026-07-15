@@ -7,12 +7,13 @@
 "telegram": "@YIsus_mEx",
 "stations":
 [
+
 {
 "name": "El Padrino I",
-"image": "https://pics.filmaffinity.com/the_godfather-488102675-large.jpg",
-"url": "",
-"info": "[Español 1972]",
-"embed": "true",
+"image": "https://pics.filmaffinity.com/the_godfather_part_ii-617901053-large.jpg",
+"url": "https://hgcloud.to/7nwee4fl4tje",
+"info": "[Español 1974]",
+"embed": "",
 "isHost": "true",
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -20,10 +21,10 @@
 },
 {
 "name": "El Padrino II",
-"image": "https://pics.filmaffinity.com/the_godfather_part_ii-617901053-large.jpg",
-"url": "",
-"info": "[Español 1974]",
-"embed": "true",
+"image": "https://pics.filmaffinity.com/the_godfather_part_iii-171971720-large.jpg",
+"url": "https://hgcloud.to/hc5ddghj34ln",
+"info": "[Español 1990]",
+"embed": "",
 "isHost": "true",
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -32,9 +33,20 @@
 {
 "name": "El Padrino III",
 "image": "https://pics.filmaffinity.com/the_godfather_part_iii-171971720-large.jpg",
-"url": "",
+"url": "https://hgcloud.to/tp6dsd8iavnj",
 "info": "[Español 1990]",
-"embed": "true",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "El Padrino Epilogo - La muerte de Michael Corleone",
+"image": "https://pics.filmaffinity.com/the_godfather-488102675-large.jpg",
+"url": "https://hgcloud.to/x2byl300qf8s",
+"info": "[Español 2020]",
+"embed": "",
 "isHost": "true",
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
