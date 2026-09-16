@@ -1,0 +1,89 @@
+{
+"name": "",
+"image": "",
+"url": "https://sagas-af1cionados.vercel.app/saga%20ALIEN",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+[
+{
+"name": "Paranormal Activity 1",
+"image": "",
+"url": "https://bysesayeveum.com/e/c9x1kouaak6q/paranormal-activity-1-2007-todogram",
+"info": "[Español 2007]",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Paranormal Activity 2",
+"image": "",
+"url": "https://bysesayeveum.com/e/ijlscoc5s85r/paranormal-activity-2-2010-v-ext-todogram",
+"info": "[Español 2010]",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Paranormal Activity 3",
+"image": "",
+"url": "https://bysesayeveum.com/e/sdjwe6dbjooz/paranormal-activity-3-2011-todogram",
+"info": "[Español 2011]",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Paranormal Activity 4",
+"image": "",
+"url": "https://bysesayeveum.com/e/pzt6qi6912un/paranormal-activity-4-2012-todogram",
+"info": "[Español 2012]",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Paranormal Activity Los Señalados",
+"image": "",
+"url": "https://bysesayeveum.com/e/ept0izpp1lx8/paranormal-activity-los-señalados-spin-off-2014-todogram",
+"info": "[Español ]",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Paranormal Activity 5",
+"image": "",
+"url": "https://bysesayeveum.com/e/8375885o9n1u/paranormal-activity-5-dimension-fantasma-2015-todogram",
+"info": "[Español ]",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Paranormal Activity Allegados",
+"image": "https://i.postimg.cc/zvsFxHqZ/PARANORMAL-ACTIVITY-ALLEGADOS-(2021).jpg",
+"url": "https://bysesayeveum.com/e/hbimw3d5oc2k/paranormal-activity-allegados-2021-todogram",
+"info": "[Español ]",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
